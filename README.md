@@ -13,9 +13,12 @@ The data source is imported from [Yahoo Finance](https://query1.finance.yahoo.co
 ## Installation
 ```
 import pandas as pd
-import numpy as numpy
+import numpy as np
+import yfinance as yf
 %matplotlib inline
 import matplotlib.pyplot as plt
+!pip install tensorflow
+import tensorflow as tf
 from sklearn.processing import MinMaxScaler
 from tensorflow.keras.preprocessing.sequence import TimeseriesGenerator
 from tensorflow.keras.models import sequential 
