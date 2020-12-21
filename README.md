@@ -1,5 +1,5 @@
 # Project Description
-Stock prince forecasting is one of the most critical issues during the stock market trading, the traditional approaches make the time-series  prediciton still challenging.
+Stock price forecasting is one of the most critical issues during the stock market trading, the traditional approaches make the time-series  prediciton still challenging.
 With development of artificial intelligence, high performance algorithms make reliable prediction possible from the data perspective.\
 In this project, we developed  Long Short-Term Memory (LSTM) neural network for time-series forecasting Ford Stock prices in Python with the Keras deeplearning network.\
 This problem where given a year and month, the task to predict the Ford Stock price.\
@@ -8,7 +8,7 @@ The data source is imported from [Yahoo Finance](https://query1.finance.yahoo.co
 ## Libraryies & Packages
  - jupyter notebook google colab
  - Keras RNN API,  LSTM
- - tesnsorflow v 10.0
+ - tesnsorflow v 2.0
 
 ## Installation
 ```
