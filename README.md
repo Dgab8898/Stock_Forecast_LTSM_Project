@@ -42,11 +42,11 @@ from tensorflow.keras.callbacks import EarlyStopping
  The final output is given by a fully connected layer after the termination condition is reached.
  
  ## Issues
- 
+ None
  
  ## Contributing 
  
- 
+ You are well to pull request, for major changes, please open an issue. First discuss what you would like to change. please make sure to update tests as appropriate.
  
  ## Copy Right
  
@@ -55,8 +55,8 @@ from tensorflow.keras.callbacks import EarlyStopping
  
  ## References
  - MachineLearningmastery.com/time-series-forecasting-lstm-neural-networks-keras
- - [Yahoo Finance] (https://query1.finance.yahoo.com/v7/finance/download/Fperiod1=156289894&period2=1595312294&interval=1d&event=history,)
- - https://www.tensorflow.org/guide/keras/rnn
- - http://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
+ - [Yahoo Finance](https://query1.finance.yahoo.com/v7/finance/download/Fperiod1=156289894&period2=1595312294&interval=1d&event=history,)
+ - [TensorFlow](https://www.tensorflow.org/guide/keras/rnn)
+ - [Towardsdatascince](http://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
  - Tong et al., 2019 W. Tong, L. Li, X. Zhou, A. Hamilton, K. Zhang Deep Learnong PM2 6 concentration with bidirectional LSTM RNN
  
